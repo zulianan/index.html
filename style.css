@@ -1,0 +1,22 @@
+
+h1{
+	color: White;
+	font-family: sans serif;
+	text-align: center;
+}
+h4{
+	color: White;
+	font-family: sans serif;
+	text-align : center:
+}
+body{
+	background :url('baba.jpeg');
+	color: #fff;
+}
+.kotak{
+	Padding : 10px;
+	width : 980px;
+	color : #fff;
+	margin : 3px;
+	background : purple;
+}
